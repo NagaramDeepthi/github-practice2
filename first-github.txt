@@ -1,1 +1,7 @@
 first github coBe
+
+
+2nd line is added
+
+here new branch feature-2 is added
+>>>>>>> feature2
